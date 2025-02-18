@@ -42,7 +42,7 @@
           "logo": "https://raw.githubusercontent.com/Eslender73/Vip_v2ray/refs/heads/main/src/Foxray.jpg",
           "description": "FoXray sets up a new server running a wide variety of anti-censorship software.",
           "faDescription": "فاکس‌ری یک کلاینت کارامد با ابزار های متنوع ضد سانسور می‌باشد.",
-          "configLink": "openFoXrayURL()",
+          "configLink": "foxray://yiguo.dev/sub/add/?url=' + btoa({url}) + '#name",
           "downloadLink": "https://apps.apple.com/app/id6448898396",
           "tutorialSteps": [
             {
